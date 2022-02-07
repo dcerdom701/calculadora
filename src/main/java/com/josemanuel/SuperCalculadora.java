@@ -15,6 +15,8 @@ import com.josemanuel.menu.Menu;
 public class SuperCalculadora 
 {
 
+    //Aqui esta la funcionalidad del menu de la calculadora, donde se recogen las opciones y se llama a un metodo u otro
+
     public SuperCalculadora() {
         sc = new Scanner(System.in);
         this.inicializaMenus();

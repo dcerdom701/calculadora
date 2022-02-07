@@ -11,6 +11,8 @@ public class FuncionResta implements Function<Scanner, Void>{
     @Override
     public Void apply(Scanner sc) {
         
+
+        //DEVUELVE EL RESULADO DE UNA RESTA
         System.out.println("\nOperación seleccionada resta:\n");
         System.out.println("A - B\n");
         

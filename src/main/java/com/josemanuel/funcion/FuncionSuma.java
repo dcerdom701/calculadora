@@ -9,6 +9,7 @@ public class FuncionSuma implements Function<Scanner, Void>{
     @Override
     public Void apply(Scanner sc) {
         
+        //DEVUELVE EL RESULADO DE UNA SUMA
         System.out.println("\nOperación seleccionada suma:\n");
         System.out.println("A + B\n");
         

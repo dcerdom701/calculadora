@@ -37,7 +37,8 @@ public class Menu {
 
         
         do{
-
+            
+            //MUestra el menu con un bucle , en el que llama a menu y submenu
             this.renderiza();            
             String next = sc.next();
             ItemMenu itemMenuSelect = this.mapItemMenu.get(next);
